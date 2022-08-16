@@ -1,0 +1,99 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+a#naked {
+  width: 160px;
+}
+
+a#crucero {
+  width: 160px;
+}
+
+a#deportiva {
+  width: 160px;
+}
+
+a#enduro {
+  width: 160px;
+}
+
+a#chopper {
+  width: 160px;
+}
+
+a#scooter {
+  width: 160px;
+}
+
+img#logo_small {
+  width: 30px;
+}
+
+div#carouselExampleIndicators1 {
+  height: 300px;
+}
+
+div#carouselExampleIndicators2 {
+  height: 300px;
+}
+
+div#carouselExampleIndicators3 {
+  height: 300px;
+}
+
+div#carouselExampleIndicators4 {
+  height: 300px;
+}
+
+div#carouselExampleIndicators5 {
+  height: 300px;
+}
+
+div#carouselExampleIndicators6 {
+  height: 300px;
+}
+
+div#carouselExampleIndicators7 {
+  height: 300px;
+}
+
+div#carouselExampleIndicators8 {
+  height: 300px;
+}
+
+div#carouselExampleIndicators9 {
+  height: 300px;
+}
+
+div#carouselExampleIndicators10 {
+  height: 300px;
+}
+
+div#carouselExampleIndicators11 {
+  height: 300px;
+}
+
+div#carouselExampleIndicators12 {
+  height: 300px;
+}
+
+img#logo14 {
+  width: 100px;
+}
